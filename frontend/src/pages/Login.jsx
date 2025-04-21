@@ -3,7 +3,7 @@ import signup from '../assets/signup.png'
 import { useState } from 'react'
 import axios from 'axios'
 import { useSnackbar } from 'notistack'
-import {createCookie, useNavigate} from 'react-router-dom'
+import { useNavigate} from 'react-router-dom'
 import { Link } from 'react-router-dom'
 const Login = () => {
 
